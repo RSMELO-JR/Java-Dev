@@ -1,4 +1,4 @@
-public class ExpresAritmeticas {
+public class _1_ExpresAritmeticas {
     /* OPERADORES ARITMETICOS
 
     Exemplos:

@@ -1,4 +1,4 @@
-public class concatenar1 {
+public class _5_Concatenar1 {
     public static void main(String[] args) {
         /* Para CONCATENAR vários elementos em um mesmo comando de escrita, exemplo:
         (regra vale tanto para  'print' quanto 'println')
@@ -9,10 +9,12 @@ public class concatenar1 {
 
         /* Para CONCATENAR vários elementos em um mesmo comando de escrita, exemplo:
         (regra vale tanto para 'printf')
-        "texto1 %f texto2 %f texto3 %f ... variavel1, variavel2"
+        "texto1 %f texto2 %f texto3 %f ... variável1, variável2"
         '%f - ponto flutuante;
          */
         System.out.printf("RESULTADO = %.3f metros %n", x);
+
+
 
     }
 }
