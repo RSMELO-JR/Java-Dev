@@ -19,10 +19,10 @@ public class If_If_Else {
 
       if (hora < 12) {
          System.out.println("Bom dia");
-      } else {
-         System.out.println("Boa tarde");
       }
+      else {
+         System.out.println("Boa tarde");
+     }
       sc.close();
    }
 }
-
