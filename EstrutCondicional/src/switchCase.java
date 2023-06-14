@@ -32,6 +32,7 @@ public class switchCase {
       System.out.println("Dia da Semana : " + dia);
       sc.close();
    //----------------------
+   //Exemnplo 02: Switch Case
       switch (x) {
          case 1:
             dia = "domingo";
