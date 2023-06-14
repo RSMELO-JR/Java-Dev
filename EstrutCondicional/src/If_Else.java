@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class If_If_Else {
+public class If_Else {
    public static void main(String[] args) {
 
    //Exemplo 01: CONDICIONAL SIMPLES
