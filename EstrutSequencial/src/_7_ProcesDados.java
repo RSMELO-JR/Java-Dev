@@ -42,9 +42,11 @@ Exemplo 01:
 
         c = 5.0;
         d = a;
-        //erro que informa que vc não pode converter de 'double' para 'int';
-        //para realizar esta operação é preciso usar o casting:
-        d = (int) c;
+      /*
+      erro que informa que vc não pode converter de 'double' para 'int';
+      para realizar esta operação é preciso usar o casting:
+      */
+         d = (int) c;
         System.out.println(c);
 
     }
