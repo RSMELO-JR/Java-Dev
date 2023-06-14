@@ -7,6 +7,7 @@ public class OperadoresCumulativos {
       double conta = 50.0;
       if (minutos > 100) {
          conta +=  (minutos - 100) * 2;
+      //conta = conta + (minutos - 100) * 2;
       }
       System.out.printf("Valor da conta é = R$ %.2f %n", conta);
 /*
