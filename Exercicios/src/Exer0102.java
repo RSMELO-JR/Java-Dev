@@ -14,6 +14,7 @@ public class Exer0102 {
       R = PY.nextDouble();
       A = pi * R * R;
       System.out.printf("A=%.4f%n", A);
+
       PY.close();
    }
 }
