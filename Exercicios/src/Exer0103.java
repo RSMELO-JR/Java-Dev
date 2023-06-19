@@ -5,7 +5,6 @@ DIFERENCA = (A * B - C * D).
 Entradas: 5,6,7,8 - Saída: Diferença -26;
 Entradas: 5,6,.7,8 - Saída:Diferença 86;
 */
-
 import java.util.Scanner;
 public class Exer0103 {
    public static void main(String[] args) {
